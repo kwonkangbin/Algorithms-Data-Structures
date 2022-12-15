@@ -1,6 +1,6 @@
 //중간고사 출제
 #include <stdio.h>
-
+ 
 void inputArray( int a[], int size);
 void outputArray( int a[], int size);
 int insertArray( int a[], int num, int index, int size);
